@@ -1,0 +1,6 @@
+there r 3 types of data collection
+it is divided into
+*list
+*set
+*tuple
+*dictionary

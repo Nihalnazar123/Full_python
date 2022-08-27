@@ -1,0 +1,38 @@
+flow of controls
+-----------------
+1.decision-making
+2.lopping
+3.switching
+
+*decision-making
+------------
+
+it is divided into 3 types
+*if _ if is a keyword, syntax - if num>5:
+----------                                    print('hello')
+
+*we give a if statement inside a if statement is called nested if
+                                                  ------------------
+
+*if else - syntax - if num>5:
+---------                          print('hello')
+                     else:
+                        print('no hello for u')
+
+
+ *if elif else
+ ----------
+
+ to slove intentation error use tab button
+
+if
+num=int(input('enter a number : '))
+if num>5:
+    print('hello')
+
+ if else
+num=int(input('enter a number : '))
+if num>5:
+    print('hello')
+else:
+    print('no hello for u')

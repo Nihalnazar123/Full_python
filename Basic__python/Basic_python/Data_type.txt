@@ -1,0 +1,8 @@
+Data_types:
+---------
+1. numerical data type
+    * integer (int) -all number values both + and - including 0
+    * float (float) -point values 4.0____
+2. Non-numerical data type
+    * string (str) - all values inside ""
+    * boolean (bool) -true or false

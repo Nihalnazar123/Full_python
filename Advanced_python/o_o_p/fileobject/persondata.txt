@@ -1,0 +1,4 @@
+anu,23,kochi
+amal,21,calicut
+arun,24,thrissur
+anage,22,kakkanad
